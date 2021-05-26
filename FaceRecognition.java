@@ -28,6 +28,7 @@ import static org.opencv.imgcodecs.Imgcodecs.imread;
 
 public class FaceRecognition {
 
+
     private FaceRecognizer fr;
     private DBOperations dbo;
 
